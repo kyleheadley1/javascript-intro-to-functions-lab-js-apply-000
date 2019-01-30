@@ -18,6 +18,6 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
   else {
-    return ("I cant hear you!")
+    return ("I can't hear you!")
   }
 }
